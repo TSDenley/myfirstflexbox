@@ -17,10 +17,6 @@ body {
 		background-color: royalblue;
 	}
 
-	.sidebar-01 {
-		background-color: cornflowerblue;
-	}
-
 	.site-main {
 		background-color: #fff;
 	}
@@ -33,6 +29,10 @@ body {
 			.article:first-child {
 				border-top: none;
 			}
+
+	.sidebar-01 {
+		background-color: cornflowerblue;
+	}
 
 	.sidebar-02 {
 		background-color: lightskyblue;
